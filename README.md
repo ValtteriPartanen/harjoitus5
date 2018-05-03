@@ -42,7 +42,7 @@ usage.txt sisältö
 
 sudo bash install_ssh.sh
 
-Kaikki näyttää valmiilta, git repository kansion sisällä git add . && git commit , jonka jälkeen vielä git pull && git push ,jotta ti$
+Kaikki näyttää valmiilta, git repository kansion sisällä git add . && git commit , jonka jälkeen vielä git pull && git push
 
 Tämän jälkeen poistin kokonaan tekemäni harjoitus5 kansion
 
