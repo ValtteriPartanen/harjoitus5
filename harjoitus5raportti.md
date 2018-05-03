@@ -7,7 +7,7 @@ b) Julkaise raportti MarkDownilla. Jos käytät GitHub:ia, se tekee muotoilun au
 c) Aja oma Salt-tila suoraa git-varastosta. Voit joko tehdä tilan alusta lähtien itse tai forkata sirottimen.
 
 
-b)c) Loin uuden repositoryn harjoitus5.
+b)c) Loin uuden repositoryn harjoitus5. Tila asentaa ssh:n. Yksinkertaista.
 
 ### Lähteet:
 
